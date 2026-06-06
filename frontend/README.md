@@ -1,6 +1,6 @@
 # TalentForge - Frontend
 
->  [Live Demo](https://talentforge-chi.vercel.app/)
+> [Live Demo](https://interview-platform-main.vercel.app/)
 
 A modern React application for TalentForge - the interview preparation platform with real-time collaborative coding, HD video calls, and structured learning roadmaps.
 
