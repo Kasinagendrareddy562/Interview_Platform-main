@@ -1,6 +1,6 @@
 # TalentForge - Interview Platform
 
-> [Live Demo](https://talentforge-chi.vercel.app/)
+> [Live Demo]((https://interview-platform-main.vercel.app/)]
 
 TalentForge is a full-stack interview preparation platform that enables real-time collaborative coding sessions with HD video calling, live code editor, and structured learning roadmaps.
 
